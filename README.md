@@ -13,7 +13,7 @@ That's me in a quick nutshell!  I hope to include more later on.  Thanks!
 - 🔭 I’m currently working on skilling up.
 - 🌱 I’m currently learning C#
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderwine)](https://github.com/coderwine/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderwine&layout=compact)](https://github.com/coderwine/github-readme-stats)
 <!--
 **coderwine/coderwine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
