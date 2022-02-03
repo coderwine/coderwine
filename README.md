@@ -12,6 +12,7 @@ That's me in a quick nutshell!  I hope to include more later on.  Thanks!
 
 - 🔭 I’m currently working on skilling up.
 - 🌱 I’m currently learning C#
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ewine/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderwine&layout=compact)](https://github.com/coderwine/github-readme-stats)
 <!--
