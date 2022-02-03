@@ -9,6 +9,11 @@ I'm currently working on an fullstack application that will help people manage t
 I'm will also be focusing on learning the AWS ecosystem so that I can properly utilize it for both my own needs and potentially for teaching purposes.
 
 That's me in a quick nutshell!  I hope to include more later on.  Thanks!
+
+- 🔭 I’m currently working on skilling up.
+- 🌱 I’m currently learning C#
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderwine&repo=github-readme-stats)](https://github.com/coderwine/github-readme-stats)
 <!--
 **coderwine/coderwine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
