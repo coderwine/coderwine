@@ -13,7 +13,7 @@ As an aside, I enjoy learning and investing into real estate and working with pe
 - 🔭 Always working on skilling up.
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ewine/)
-- ⚡ Fun fact: I own 150 board games.
+- ⚡ Fun fact: I own over 150 board games.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderwine&layout=compact)](https://github.com/coderwine/github-readme-stats)
 <!--
