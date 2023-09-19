@@ -2,17 +2,18 @@
 
 Greetings!
 
-I am currently a web dev instructor focused mainly on the fundamentals of javascript and digging deeper into React and Nodejs.
+I've been teaching the fundamentals of development since 2020. This includes full stack development focused within React and Node utilizing both a PERN and MERN stack. I also taught the fundamentals of C# during this time but find that my energy is best placed within the JavaScript realm and I enjoy simply building, planning, designing, and teaching it.
 
-I'm currently working on an fullstack application that will help people manage their own properties and organize their household needs.  Of course, this is along with my desire to update my portfoio in the meanwhile.
+I have several project ideas that I'm building out and detailing within my own GitBook that I aim to release as time permits (as I typically build outside of my full time job).
 
-I'm will also be focusing on learning the AWS ecosystem so that I can properly utilize it for both my own needs and potentially for teaching purposes.
+Always aiming to improve! My aim is to focus on the AWS ecosystem and dive even further into various styling libraries to help keep my UX/UI skills in practice.
 
-That's me in a quick nutshell!  I hope to include more later on.  Thanks!
+As an aside, I enjoy learning and investing into real estate and working with people. I'm a guitarist (hobbyist) and avid board gamer.
 
-- 🔭 I’m currently working on skilling up.
-- 🌱 I’m currently learning C#
+- 🔭 Always working on skilling up.
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ewine/)
+- ⚡ Fun fact: I own 150 board games.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderwine&layout=compact)](https://github.com/coderwine/github-readme-stats)
 <!--
